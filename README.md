@@ -8,4 +8,4 @@ Horiseon Initial Landing Page View:
 Horiseon Services and Benefits Section:
 ![Image](./Develop/assets/images/horiseon2.jpg)
 
-Link to live URL: 
+Link to live URL: https://robbiemurphy7.github.io/Horiseon_Home/
